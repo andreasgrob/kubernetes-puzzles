@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Namespace
 metadata:
-  name: puzzle-1
+  name: puzzle-2
 ...
 ---
 apiVersion: apps/v1
